@@ -1,2 +1,2 @@
 # wawa
-<p> totally new to github </p>
+<p><center> totally new to github </center></p>
